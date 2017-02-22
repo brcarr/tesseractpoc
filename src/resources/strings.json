@@ -1,0 +1,33 @@
+{
+    "en": {
+        "tesseractPOC": {
+            "title": "Tesseract POC",
+            "viewportView": {
+                "cardTitle": "Viewport Card",
+                "captureFileButton": "Capture from File",
+                "captureScannerButton": "Capture from Scanner",
+                "clearButton": "Clear the Viewer",
+                "ocrButton": "OCR Document"
+            },
+            "tesseractView": {
+                "cardTitle": "Tesseract Card",
+                "message": "The Tesseract results will be displayed here.",
+                "tesseractStates": {
+                    "loadingCore": "Loading Tesseract Core",
+                    "initializingTesseract": "Initializing Tesseract",
+                    "initializingApi": "Initializing API",
+                    "recognizingText": "Recognizing Text"
+                },
+                "toolbar": {
+                    "reloadButton": "Rerun Tesseract on loaded image",
+                    "copyButton": "Copy Tesseract results to the system clipboard",
+                    "playButton": "Read Tesseract results",
+                    "resumeButton": "Resume reading",
+                    "pauseButton": "Pause reading",
+                    "stopButton": "Stop reading Tesseract results",
+                    "annotateButton": "Annotate image with OCR results"
+                }
+            }
+        }
+    }
+}

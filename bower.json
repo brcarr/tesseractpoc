@@ -1,0 +1,12 @@
+{
+    "name": "tesseractpoc",
+    "version": "0.1.0",
+    "main": "src/exports",
+    "dependencies": {
+        "framework-core": "^2",
+        "framework-home": "^1",
+        "lesrdl-framework-capturemanager": "^2",
+        "lesrdl-content-viewport": "^1",
+        "lesrdl-content-annotationsviewer": "^1"
+    }
+}
